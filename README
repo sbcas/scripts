@@ -1,1 +1,4 @@
+The following scripts were inspired by conversations on IRC
+
+portupdate.sh -- update ports on FreeBSD in one command (xorg-dev repo is used here, required reading if you want to use it: http://lists.freebsd.org/pipermail/freebsd-ports/2012-February/072859.html)
 pwgen.sh -- generate random passwords for a list of users from a file.  use at your own risk.
